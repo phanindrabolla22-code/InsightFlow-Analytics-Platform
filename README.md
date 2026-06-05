@@ -27,3 +27,11 @@ A complete end-to-end Data Analytics web application built using Streamlit.
 ---
 
 ## 📁 Project Structure
+A modular Streamlit BI Dashboard:
+
+- `app.py` → Main entry point
+- `pages/` → Multi-page dashboard system
+- `Cleaning.py` → Data preprocessing
+- `Dashboard.py` → Visual analytics
+- `Insights.py` → Business insights engine
+- `Results.py` → Final report generation
